@@ -1,3 +1,4 @@
 Apuntes de Geoportales para el monitoreo de incendios forestales
 
 -FIRMS - NAZA
+-GEE
