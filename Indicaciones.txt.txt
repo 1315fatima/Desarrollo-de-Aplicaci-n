@@ -1,0 +1,5 @@
+Algunas indicaciones para utlizar GIT
+-Descargarlo desde la pigina principal (ya que es gratuito)
+-instarlarlo en tu computador
+-cononcer los comandos basicos
+-Crear una carpeta o utilizar una para convertirla en un archivo GIT
